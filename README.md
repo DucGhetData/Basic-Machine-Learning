@@ -1,6 +1,6 @@
 # Basic-Machine-Learning
 End of study module project
-The library need to install( open terminal and run this command: "pip install 'name' of library)
+- The library need to install( open terminal and run this command: "pip install 'name' of library)
 - pandas
 - scipy
 - matplotlib
