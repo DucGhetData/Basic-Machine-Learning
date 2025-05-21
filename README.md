@@ -1,11 +1,12 @@
 # Basic-Machine-Learning
 End of study module project
+- I put Code and Notebook in master branch
 - The library need to install( open terminal and run this command: "pip install 'name' of library)
 - pandas
 - scipy
 - matplotlib
 - numpy
-- skit-learn
+- scikit-learn
 - seaborn
 - category_encoders
 - xgboost
